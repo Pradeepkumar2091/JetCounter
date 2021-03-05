@@ -10,13 +10,6 @@
 
 - Simple countdown timer.
 
-
-## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
-
-- Drawaing circle progress using [Canvas](https://developer.android.com/reference/kotlin/androidx/compose/ui/graphics/Canvas).
-
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
